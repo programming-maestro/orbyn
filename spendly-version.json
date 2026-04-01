@@ -3,7 +3,7 @@
   "latest_version": 57,
   "blocked_versions": [51],
   "always_allowed_versions": [],
-  "soft_update_versions": [47],
+  "soft_update_versions": [47, 59],
   "maintenance_mode": false,
   "playstore_url": "https://play.google.com/store/apps/details?id=com.orbynlabs.spendly",
   "update_message": "Please update Spendly to continue using the app.",
