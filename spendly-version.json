@@ -1,5 +1,5 @@
 {
-  "min_supported_version": 56,
+  "min_supported_version": 47,
   "latest_version": 57,
   "blocked_versions": [47, 59, 56, 51],
   "always_allowed_versions": [],
